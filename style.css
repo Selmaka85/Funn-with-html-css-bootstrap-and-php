@@ -1,0 +1,30 @@
+nav ul li{
+	text-decoration:none;
+	display:inline-block;
+	font-size:35px;
+	padding:10px;
+	text-decoration:none;
+}
+nav ul li a{
+	text-decoration:none;
+	
+}
+nav ul li:hover{
+text-decoration:none;
+}
+nav ul li a:hover{
+	color:white;
+	background:red;
+	border-radius:10px;
+	padding:5px;
+	text-decoration:none;
+}
+body{
+	background:linear-gradient(gray,white,gray);
+	background-attachment:fixed;
+}
+.answer{
+	width:600px;
+	margin:auto;
+	border-radius:10px;
+}
